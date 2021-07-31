@@ -1,4 +1,4 @@
-# serverless-offline-multi
+# sls-off
 
 > Fork `serverless-offline-multi` in [LINK](https://github.com/isitgeorge/serverless-offline-multi).
 
