@@ -1,5 +1,7 @@
 # serverless-offline-multi
 
+> Fork `serverless-offline-multi` in [LINK](https://github.com/isitgeorge/serverless-offline-multi).
+
 > A wrapper for `serverless-offline` that allows multiple instances to be ran concurrently with watch functionality. This is achieved using `concurrently` and `nodemon`.
 
 ## Prerequisites
