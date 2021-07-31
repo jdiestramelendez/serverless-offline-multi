@@ -1,6 +1,6 @@
 {
   "name": "@jozhetak/sls-off",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A wrapper for serverless-offline that allows multiple instances to be ran concurrently with watch functionality",
   "main": "./lib/index.js",
   "scripts": {
